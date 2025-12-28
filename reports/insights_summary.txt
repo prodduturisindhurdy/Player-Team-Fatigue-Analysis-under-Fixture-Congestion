@@ -1,0 +1,32 @@
+Project:Player & Team Fatigue Analysis under Fixture Congestion
+
+Objective:
+The objective of this analysis is to understand how fixture congestion (short rest periods between matches)
+affects football team performance and to identify whether team quality and physical attributes help teams
+cope better under congested schedules.
+
+Key Insights:
+1. Teams experience a decline in performance as rest days decrease.
+2. High fixture congestion negatively impacts both goals scored and goals conceded.
+3. Teams with higher overall quality show better resilience under congested schedules.
+4. Strong physical attributes such as sprint speed, strength, and reactions reduce the performance drop
+   during periods of high congestion.
+5. Not all teams are affected equally — some teams consistently perform better under workload pressure.
+6. Certain seasons show higher match density, increasing fatigue-related performance risks.
+
+Business Recommendations:
+1. Fixture schedules should minimize short-rest matches where possible.
+2. Teams should prioritize squad rotation during congested periods.
+3. Investment in physical conditioning and squad depth can improve congestion resilience.
+4. Continuous monitoring of workload indicators can help prevent performance decline.
+5. Data-driven workload planning provides a competitive advantage over long seasons.
+
+Conclusion:
+Fixture congestion has a measurable negative impact on football team performance. However, teams with
+strong physical profiles and higher quality are better equipped to manage congested schedules. Effective
+workload management can significantly improve competitive outcomes.
+
+Tools Used:
+- Python
+- SQL
+- Tableau
