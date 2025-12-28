@@ -1,0 +1,66 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# =========================
+# Data files (do NOT upload large raw data)
+# =========================
+data/raw/*
+data/processed/*
+data/final/*.csv
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/final/.gitkeep
+
+# =========================
+# SQLite database
+# =========================
+*.sqlite
+*.db
+
+# =========================
+# Tableau
+# =========================
+*.hyper
+*.twb
+*.log
+
+# Allow packaged Tableau file if needed
+!*.twbx
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Reports
+# =========================
+reports/*.pdf
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak
