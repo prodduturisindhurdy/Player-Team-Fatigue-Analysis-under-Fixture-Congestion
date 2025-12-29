@@ -1,4 +1,4 @@
-# Player-Team-Fatigue-Analysis-under-Fixture-Congestion
+# Workload & Performance Degradation Analysis
 This project analyzes the impact of fixture congestion on football team performance by examining rest
 days between matches and categorizing workload intensity. Using match-level data and team physical
 attributes, the analysis explores how short recovery periods influence goal difference, attacking and
@@ -64,7 +64,7 @@ congested schedules.
 ---
 
 ## Repository Structure
-player-Team-Fatigue-Analysis-under-Fixture-Congestion/
+Workload & Performance Degradation Analysis/
 │
 ├── data/
 │ ├── raw/
